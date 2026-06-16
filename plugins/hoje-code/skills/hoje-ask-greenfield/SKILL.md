@@ -1,6 +1,7 @@
 ---
-name: deep-ask-greenfield
-description: greenfield 프로젝트에서 research 태그된 질문에 대해 2-3개 순위 후보를 제공하는 deep-ask 내부 프래그먼트.
+name: hoje-ask-greenfield
+description: greenfield 프로젝트에서 research 태그된 질문에 대해 2-3개 순위 후보를 제공하는 hoje-ask 내부 프래그먼트.
+hidden: true
 ---
 
 # Deep-Ask Greenfield Research (Fragment)

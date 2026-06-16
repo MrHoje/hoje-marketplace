@@ -1,6 +1,7 @@
 ---
-name: run-goals-slop-cleaner
-description: 활성 goal의 변경 파일만 검사하는 읽기 전용 코드 품질 탐지기. run-goals 스킬 내부에서 호출됨.
+name: hoje-goals-slop-cleaner
+description: 활성 goal의 변경 파일만 검사하는 읽기 전용 코드 품질 탐지기. hoje-goals 스킬 내부에서 호출됨.
+hidden: true
 ---
 
 # Run-Goals Slop Cleaner (Fragment)

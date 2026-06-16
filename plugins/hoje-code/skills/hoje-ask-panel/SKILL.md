@@ -1,6 +1,7 @@
 ---
-name: deep-ask-panel
-description: 모호성 마일스톤 전환 시 4개 페르소나를 병렬로 소환해 맹점을 탐지하는 deep-ask 내부 프래그먼트.
+name: hoje-ask-panel
+description: 모호성 마일스톤 전환 시 4개 페르소나를 병렬로 소환해 맹점을 탐지하는 hoje-ask 내부 프래그먼트.
+hidden: true
 ---
 
 # Deep-Ask Lateral Review Panel (Fragment)

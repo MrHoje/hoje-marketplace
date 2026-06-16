@@ -1,6 +1,7 @@
 ---
-name: deep-ask-auto-answer
-description: 사용자가 답변을 위임했을 때 가장 안전한 단일 결정을 내리는 deep-ask 내부 프래그먼트.
+name: hoje-ask-auto-answer
+description: 사용자가 답변을 위임했을 때 가장 안전한 단일 결정을 내리는 hoje-ask 내부 프래그먼트.
+hidden: true
 ---
 
 # Deep-Ask Auto Answer (Fragment)
